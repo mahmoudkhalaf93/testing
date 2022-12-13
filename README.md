@@ -11,13 +11,6 @@ You can then mark them as completed or not, filter them and delete them.
 
 ![App main screen, screenshot](screenshot.png)
 
-This codelab has four branches, representing different code states:
-
-* [starter_code](https://github.com/googlecodelabs/android-testing/tree/starter_code)
-* [end_codelab_1](https://github.com/googlecodelabs/android-testing/tree/end_codelab_1)
-* [end_codelab_2](https://github.com/googlecodelabs/android-testing/tree/end_codelab_2)
-* [end_codelab_3](https://github.com/googlecodelabs/android-testing/tree/end_codelab_3)
-
 The codelabs in this series are:
 * [Testing Basics](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-basics)
 * [Introduction to Test Doubles and Dependency Injection](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-test-doubles)
@@ -37,28 +30,13 @@ familiar with:
 * Application architecture, following the pattern from the [Guide to app architecture](https://developer.android.com/jetpack/docs/guide) and [Android Fundamentals codelabs](https://developer.android.com/courses/kotlin-android-fundamentals/toc).
 
 
-Getting Started
----------------
+final skills
+--------------
 
-1. Download and run the app.
-2. Check out one of the codelabs mentioned above.
-
-License
--------
-
-Copyright 2019 Google, Inc.
-
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the NOTICE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
-
-  http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
+unit test 
+instrumented tests 
+end to end testing using idling resources
+doubles and dependency injection
+Espresso for ui testing
+mockito
+testing livedata , viewmodel , navigation component , coroutines , room and data binding
